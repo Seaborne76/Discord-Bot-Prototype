@@ -1,0 +1,1 @@
+Discord bot, patched from a couple tutorials, the skeleton by Hong Jeon on codedex, and James S on Youtube
